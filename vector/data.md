@@ -2,6 +2,7 @@
 
 **Description** : The function returns a pointer to the first element in the array which is used internally by the vector. It doesn't accept any parameters.
 
+**说明：** 该函数返回一个指向数组中第一个元素的指针，该指针在向量内部使用。它不接受任何参数。
 
 **Example**:
 

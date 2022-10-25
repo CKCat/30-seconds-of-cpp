@@ -2,6 +2,8 @@
 
 **Description**: Remove all current elements of the vector, reducing its size to 0.
 
+**描述：** 删除向量的所有当前元素，将其大小减小到 0。
+
 **Example**:
 ```cpp
     std::vector<int> myVector;

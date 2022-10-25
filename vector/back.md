@@ -4,6 +4,10 @@
 
 Returns a reference to the last element in the vector
 
+**描述 ：**
+
+返回对向量中最后一个元素的引用。
+
 **Example** :
 
 ```cpp

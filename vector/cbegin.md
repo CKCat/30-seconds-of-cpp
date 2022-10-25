@@ -7,6 +7,12 @@ Notes:
 1. The iterator points to the beginning of the vector.
 2. Iterator cannot modify the contents of the vector.
 
+**说明：** 该函数返回一个用于迭代容器的迭代器。
+
+注意：
+1. 迭代器指向向量的开头。
+2. 迭代器不能修改向量的内容。
+
 **Example**:
 ```cpp
 // Demonstrates cbegin() 

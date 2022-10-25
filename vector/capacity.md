@@ -5,6 +5,10 @@
 
 -The size returned is greater than or equal to vector size, the extra space is to accommodate expansion without the need to relocate vector each time
 
+**描述 ：**
+- 返回当前分配给vector的存储空间。
+- 返回的大小大于等于向量大小，多余的空间是为了容纳扩展而不需要每次都重新定位向量。
+
 **Example**
 ```cpp
    //Declare the vector

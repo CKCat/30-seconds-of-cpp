@@ -4,7 +4,11 @@
 - Returns a reference to the element at position _n_ in the vector.
 
 - If the position is not present in the vector, it throws exception of type _out_of_range_ 
-			
+
+**描述 ：**
+- 返回对向量中位置 n 处元素的引用。
+- 如果向量中不存在该位置，则抛出 out_of_range 类型的异常。
+
 **Example**:
 ```cpp
 	// Create a vector of 5 integers  

@@ -1,12 +1,14 @@
 # assign
 
 **Description** : Overwrites the contents of a vector.
-**描述：** 覆盖向量的内容。
+
 
 Two variations:
 
 1. Assigns the vector's contents to `n` copies of a value.
 2. Assigns the vector to a copy of the elements in a given iterator range.
+
+**描述：** 覆盖向量的内容。
 
 两种变体：
 1. 将向量的内容分配给一个值的 n 个副本。

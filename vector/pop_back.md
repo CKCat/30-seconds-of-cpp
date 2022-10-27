@@ -2,6 +2,8 @@
 
 **Description** : Remove elements of a vector from the end
 
+**描述 : ** 从一个向量的末端移除元素。
+
 **Example** :
 ```cpp
     //Declare the vector

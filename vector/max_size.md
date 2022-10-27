@@ -4,6 +4,10 @@
 - Returns the maximum number of elements that a vector can hold.
 - Depends on the limitations of the system on which program is running.
 
+**描述 ：**
+- 返回向量可以容纳的最大元素数。
+- 取决于运行程序的系统的限制。
+
 **Example**:
 ```cpp
 	//Create two vectors, one empty and one having 6 elements

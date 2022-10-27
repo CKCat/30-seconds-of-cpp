@@ -4,6 +4,10 @@
 - Helps specify the minimum size of a vector
 - Useful to know how many elements the vector will ultimately hold
 
+**描述 ：**
+- 帮助指定向量的最小大小。
+- 有助于了解向量最终将包含多少个元素。
+
 **Example**:
 ```cpp
 	//create an empty vector

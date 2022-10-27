@@ -2,6 +2,8 @@
 
 **Description** : Reduces the capacity of the container to fit its size.
 
+**描述:** 减少容器的容量以适应其大小。
+
 **Example**:
 ```cpp
     //create a vector of 5 elements

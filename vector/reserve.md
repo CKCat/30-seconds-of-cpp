@@ -1,4 +1,4 @@
-# reserve
+	# reserve
 
 **Description** :
 - Helps specify the minimum size of a vector
@@ -15,7 +15,9 @@
 
         //reserve a size of 'atleast' 5 elements
         myvector.reserve(5);
-
+	std::cout << myvector.size() << std::endl; // 0
+    	std::cout << myvector.capacity() << std::endl; // 5
+	
         //inserting 5 elements
         for(int i=0; i<5; i++)
         {

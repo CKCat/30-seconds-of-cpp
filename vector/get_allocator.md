@@ -2,6 +2,8 @@
 
 **Description**: Returns a copy of the allocator object associated with the vector.
 
+**说明：** 返回与向量关联的分配器对象的副本。
+
 **Example**:
 
 ```cpp

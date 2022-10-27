@@ -2,10 +2,17 @@
 
 **Description** : Erases the specified elements from the vector.
 
+**描述**：从向量中删除指定的元素。
+
 Two variations:
 
 1. Removes the element at position.
 2. Removes the elements in the range [first, last).
+
+两种变化。
+
+1. 移除指定位置上的元素。
+2. 删除范围[first, last)内的元素。
 
 **Example**:
 ```cpp

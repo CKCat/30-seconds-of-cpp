@@ -2,6 +2,8 @@
 
 **Description**: Constructs and places an element at the end of the vector
 
+**描述：** 构造一个元素并将其放置在向量的末尾。
+
 **Example**:
 ```cpp
     //creating a vector of 3 elements

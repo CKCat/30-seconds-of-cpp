@@ -1,7 +1,9 @@
 # contains
 
 **Description :**  Checks whether there is an element with a specified key in the container. Returns true if there is such an element, otherwise false. 
-  
+
+**描述：** 检查容器中是否存在具有指定键的元素。如果存在这样的元素，则返回 true，否则返回 false。
+
 **Example** :
 
 ```cpp

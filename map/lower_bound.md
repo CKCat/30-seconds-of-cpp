@@ -5,6 +5,8 @@ In case k is not present in the map container, the function returns an iterator 
 which is just greater than k. If the key passed in the parameter exceeds the maximum key in the container, 
 then the iterator returned points to number of elements in the map as key and element = 0. 
 
+描述：该函数返回一个迭代器，该迭代器指向map容器中的key，该key等效于参数中传递的k。如果k在map容器中不存在，则该函数将返回一个迭代器，该迭代器指向直接的下一个元素，该元素大于k。如果参数中传递的key超过容器中的最大key，则迭代器返回的点为映射中的元素数量为键和元素= 0。
+
 **Example**:
 ```cpp
 #include <iostream> 

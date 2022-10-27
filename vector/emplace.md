@@ -2,6 +2,8 @@
 
 **Description**: Places an element in the vector at the specified position
 
+**说明：** 将元素放置在向量中的指定位置。
+
 **Example**:
 ```cpp
     //creating a vector of 5 elements

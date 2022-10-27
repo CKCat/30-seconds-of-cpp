@@ -1,7 +1,9 @@
 # merge
 
 **Description :** The list::merge() is an inbuilt function in C++ STL which merges two sorted lists into one. 
- 
+
+**描述：** list::merge() 是 C++ STL 中的一个内置函数，它将两个排序列表合并为一个。
+
 **Example** :
 ```cpp
     // declaring the lists 

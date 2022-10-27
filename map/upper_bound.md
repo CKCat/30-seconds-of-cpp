@@ -2,6 +2,8 @@
 
 **Description :** The map::upper_bound() is a built-in function in C++ STL which returns an iterator pointing to the immediate next element just greater than k. If the key passed in the parameter exceeds the maximum key in the container, then the iterator returned points to the number of elements in the map container as key and element = 0.
 
+描述：map::upper_bound() 是 C++ STL 中的内置函数，它返回一个迭代器，该迭代器指向刚好大于 k 的下一个元素。如果参数中传入的key超过了容器中的最大key，则返回的迭代器指向map容器中的元素个数为key，element=0。
+
 **Example** :
 
 ```cpp

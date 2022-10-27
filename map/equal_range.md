@@ -1,6 +1,8 @@
 # equal_range
 **Description :** Returns the bounds of a range that includes all the elements in the container which have a key equivalent to k.
 
+说明：返回一个范围的边界，该范围包括容器中所有具有与 k 等效的键的元素。
+
 **Example** :
 
 ```cpp

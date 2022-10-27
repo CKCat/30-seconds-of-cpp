@@ -2,6 +2,8 @@
 
 **Description** : begin() function is used to return an iterator pointing to the first element of the list container.
 
+**描述**：begin() 函数用于返回一个指向列表容器第一个元素的迭代器。
+
 **Example**:
 ```cpp
     // declaration of list container 

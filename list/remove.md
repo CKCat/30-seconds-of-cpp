@@ -2,6 +2,8 @@
 
 **Description** :The list::remove() is a built-in function in C++ STL which is used to remove elements from a list container.
 
+**描述**：list::remove() 是 C++ STL 中的内置函数，用于从列表容器中删除元素。
+
 **Example**:
 ```cpp
     // Creating a list 

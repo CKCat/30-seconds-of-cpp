@@ -2,6 +2,8 @@
 
 **Description** : Swaps the contents of two vectors
 
+描述：交换两个向量的内容
+
 **Example**:
 ```cpp
     //Intializing the vectors  

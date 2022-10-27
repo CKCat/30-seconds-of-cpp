@@ -2,6 +2,8 @@
 
 **Description :** The vector::empty() is a built-in function in C++ STL is used to check whether a particular vector container is empty or not. 
 
+**说明：** vector::empty() 是 C++ STL 中的内置函数，用于检查特定向量容器是否为空。
+
 **Example** :
 ```cpp
     // Creating a vector 

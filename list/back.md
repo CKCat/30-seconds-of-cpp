@@ -2,6 +2,8 @@
 
 **Description** : The list::back() function in C++ STL returns a direct reference to the last element in the list container.
 
+**描述**：C++ STL 中的 list::back() 函数返回对列表容器中最后一个元素的直接引用。
+
 **Example**:
 ```cpp
     // Initialization of list 

@@ -4,6 +4,10 @@
 Also supports a callback function to be passed as a parameter. Removes the second element of the two consecutive elements that are being compared when the callback returns true.
 The time complexity is linear.
 
+**描述**：Unique 函数从范围 [first,last) 中删除列表中的连续重复元素。还支持将回调函数作为参数传递。当回调返回 true 时，移除正在比较的两个连续元素中的第二个元素。
+
+时间复杂度是线性的。
+
 **Example**:
 ```cpp
     std::list<int> duplicates {0,1,1,2,3,4,4,5,5,5,5,7,8,8,9};

@@ -2,6 +2,8 @@
 
 **Description :** This function is used to return an iterator pointing to the first element of the map container. begin() function returns a bidirectional iterator to the first element of the container.
 
+**描述：** 此函数用于返回一个指向map容器第一个元素的迭代器。 begin() 函数返回一个指向容器第一个元素的双向迭代器。
+
 **Example** :
 
 ```cpp

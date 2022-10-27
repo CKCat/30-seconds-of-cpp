@@ -2,6 +2,8 @@
 
 **Description** : Add new elements to the vector
 
+**描述：** 向向量中添加新元素。
+
 **Example**:
 ```cpp
     //Declare the vector  

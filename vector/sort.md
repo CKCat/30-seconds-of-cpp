@@ -1,6 +1,9 @@
 # sort
 
-**Description** : Puts the vector in increasing or decreasing order
+**Description** : Puts the vector in increasing or decreasing order.
+
+**描述**：将向量按升序或降序排列。
+
 **Example**:
 ```cpp
     //Declare the vector  
